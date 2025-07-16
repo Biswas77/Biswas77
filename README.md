@@ -1,54 +1,45 @@
-<h1 align="center">Hi there 👋, I'm Arghya Biswas</h1>
+<h1 align="center">🚀 Arghya Biswas | <span style="color:#00BFFF">Test Automation Developer</span> 👨‍💻</h1>
 
 <p align="center">
-  💻 Java Full Stack Developer | 🚀 Passionate Coder | 🌱 Lifelong Learner  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Java+SDET+%7C+Selenium+Expert;Automation+Framework+Builder;Full-Stack+Learner+%7C+Open+Source+Contributor" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I’m currently working on building full-stack web applications using **Spring Boot** and **React.js**
-- 👯 Open to collaborate on **Java-based projects**, **web apps**, or anything exciting!
-- 💬 Ask me about Java, Spring Boot, React, or how to structure a full-stack project
-- 📫 How to reach me: **arghyabiswas198.com**
-- ⚡ Fun fact: I can turn ☕ into code all day long!
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🧑‍💻 About Me:
+- 🎓 B.Tech in Electrical Engineering, 2024
+- 💼 Focused on: **Test Automation with Java + Selenium**
+- 🛠 Building: **Hybrid Frameworks, Page Object Models, REST API Testing**
+- 🌱 Currently Learning: **TestNG, Cucumber, Docker, Playwright**
+- 💡 Passionate about clean code, automation design, and productivity tools
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biswas77&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswas77&theme=radical" alt="GitHub Streak" />
+### ⚙️ Tech Stack & Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,maven,selenium,git,github,postman,vscode,html,css,js" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 📌 Featured Projects:
+- ✅ [Selenium Test Automation Framework (Java + TestNG)](https://github.com/Biswas77/selenium-framework)
+- 🌐 [Web Automation Scripts (Page Object Model)](https://github.com/Biswas77/web-automation-pom)
+- 📚 [Student CRUD App (Spring MVC + JDBC)](https://github.com/Biswas77/student-crud-app)
+- 🔐 [Login System (Spring Security)](https://github.com/Biswas77/spring-login-app)
 
-<p align="left"> <a href="https://www.linkedin.com/in/arghya-biswas-498a941b1/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 
-  <a href="https://www.instagram.com/your-instagram-username/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p>
+---
 
+### 📈 GitHub Activity:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswas77&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Biswas77&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 🤝 Let’s Connect:
+<p>
+  <a href="mailto:arghyabiswas198@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arghyabiswas77/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
