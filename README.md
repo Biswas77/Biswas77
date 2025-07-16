@@ -10,10 +10,7 @@
 - 🎓 B.Tech in Electrical Engineering, 2024
 - 💼 Aspiring **Full Stack Java Developer**
 - 🔭 Currently building: **Product & Book Management Systems (Spring Boot + Thymeleaf)**
-- 🌱 Learning: **React.js, Docker, REST APIs, Spring Security**
 - 💡 Goal: To create responsive, scalable, and maintainable web applications
-
----
 
 ### 💻 Tech Stack:
 <p align="left">
