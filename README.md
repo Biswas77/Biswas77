@@ -9,10 +9,9 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on building full-stack web applications using **Spring Boot** and **React.js**
-- 🌱 Exploring **Microservices**, **Docker**, and **Cloud Deployment (AWS)**
 - 👯 Open to collaborate on **Java-based projects**, **web apps**, or anything exciting!
 - 💬 Ask me about Java, Spring Boot, React, or how to structure a full-stack project
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **arghyabiswas198.com**
 - ⚡ Fun fact: I can turn ☕ into code all day long!
 
 ---
@@ -51,6 +50,6 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arghya-biswas-498a941b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
